@@ -32,6 +32,8 @@ a ferramenta Microsoft PowerBI.
 Quando jovem tive a ótima experiência de participar das olimpíadas do conhecimento do SENAI e ter a grande oportunidade de conhecer a sede da empresa Festo na ALemanha, 
 Foi aí que me apaixonei por tecnologia, competições, e minha vontade de aprender só fez crescer!
 
-Como me contactar: gvinicius2013.gv@gmail.com
+Como me contactar:  
+ - E-mail: gvinicius2013.gv@gmail.com;
+ - Linkedin: https://www.linkedin.com/in/gabriel-vinicius-a6a093149.
 
 Vamos aprender e evoluir juntos!
